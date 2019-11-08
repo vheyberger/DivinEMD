@@ -1,0 +1,372 @@
+.navbar {
+background-color: rgb(166,0,0);
+background-image: linear-gradient(125deg, rgba(0,0,0, 0.8) 0%, rgba(255,255,255, 0.2) 50%);
+
+}
+
+.carte_principale {
+	background: white;
+	width: 100%;
+	margin: 5% auto;
+	padding: 20px;
+	text-align: center;
+	border-radius :5px;
+}
+
+.carteappliinov{
+background-color: white;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin: 50 auto;
+    width: auto;
+    justify-content: center;
+}
+
+.textappli{
+	background-image: url ("images/appli (1).png");
+	width: 100% ; 
+	height: 600px; 
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;	
+	padding-top: 400px;
+	font-family: apple chancery;
+}
+
+
+.fonction {
+	background : white;
+	width: 100%;
+	height: 350px;
+	margin: 5% auto;
+	padding-top: 20px;
+	text-align: center;
+	border-radius :5px;
+}
+
+.fonctionimg{
+
+	display: flex;
+	text-align: center;
+	width: 100%;
+	height: 350px;
+}
+
+.textefonction {
+	text-align: center;
+	font-family: apple chancery;
+}
+
+.cartedeconseil {
+    background-color: white;
+	display: flex;
+	flex-direction: row;
+	text-align: center ;
+	margin: 10 auto ;
+	width: 100%;
+	justify-content: center;
+}
+
+.center{
+	margin: 0 auto;
+    width: 275px;
+}
+
+.description{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100% ;
+}
+
+.conseiltext {
+	background-image: url ("images/mets et vin.png");
+	width: 100% ; 
+	height: 600px; 
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-family: apple chancery;
+	padding-top: 200px;
+}
+
+.conseils {
+	background-color: white;
+	display: flex;
+	flex-direction: row;
+	text-align: center ;
+	margin: 10 auto ;
+	width: 100%;
+	justify-content: center;
+}
+
+.Lcard {
+margin: 50px;
+background: white;
+width: 50%;
+margin: 5% auto;
+padding: 20px;
+text-align: center;
+border-radius :5px;
+font-family: apple chancery;
+}
+
+.Jcard {
+margin: 50px;
+background: white;
+width: 50%;
+margin: 5% auto;
+padding: 20px;
+text-align: center;
+border-radius :5px;
+font-family: apple chancery;
+}
+
+.Vcard {
+margin: 50px;
+background: white;
+width: 50%;
+margin: 5% auto;
+padding: 20px;
+text-align: center;
+border-radius :5px;
+font-family: apple chancery;
+}
+
+.Ncard {
+margin: 50px;
+background: white;
+width: 50%;
+margin: 5% auto;
+padding: 20px;
+text-align: center;
+border-radius :5px;
+font-family: apple chancery;
+}
+
+.container {
+	display: flex;
+}
+
+.fichecontact {
+	background: white;
+	width: 71%;
+	margin: 5% auto;
+	padding: 20px;
+	text-align: center;
+	border-radius :5px;
+}
+
+.rsxsx {
+	 background-color: white;
+	 width: 50%;
+	 margin :0% 20% 0%;
+	 padding: 40px;
+	 text-align: center;
+	 font-family: apple chancery;
+}
+
+.vin{
+	width: 100%;
+	margin-top: 10px;
+}
+
+.application{
+	width: 30%;
+	margin-bottom: 30px;
+	margin-right: 0px;
+	display: flex;
+	flex-direction: column;
+
+}
+
+.twitter{
+	width: 5%;
+	margin-bottom: 5px;
+}
+
+
+.fb {
+	width: 5%;
+	margin-bottom: 5px;
+}
+	
+.insta{
+	width: 5%;
+	margin-bottom: 5px;
+}
+
+.link{
+	width: 5%;
+	margin-bottom: 5px;
+}
+
+.carte-presentation {
+	display: flex;
+}
+
+.prez {
+	width: 200px;
+}
+
+.carte-appli {
+	background: white;
+	width: 30%;
+	margin: auto;
+	padding: 130px;
+	text-align: center;
+	box-shadow: 10px 0px 20px grey;
+	border-radius :5px;
+	margin-right: 0px;
+}
+
+.img {
+	background-image: url("/images/appli (1).png");
+	width: 100%;
+	height: 600px;
+	background-size: cover;
+	background-position: center;
+}
+
+.cartel{
+	display: flex;
+	flex: 1;
+}
+
+.text {
+	width: 200px;
+}
+
+.lesfonctions{
+	display: flex;
+	justify-content: space-around;
+	width: 200%;
+}
+
+.img1 {
+	background-position: center;
+	background-size: cover;
+	width: 200% ;
+}
+
+.img2 {
+	background-position: center;
+	background-size: cover;
+	width: 200%;
+}
+
+
+.img3 {
+	background-position: center;
+	background-size: cover;
+	width: 200%;
+}
+
+body{
+	margin: 0;
+}
+
+.img {
+	background-image: linear-gradient(125deg, rgba(0,0,0, 0.8) 0%, rgba(255,255,255, 0.2) 50%), url("images/2metsetvin.jpg");
+	width: 100%;
+	height: 800px;
+	background-size: cover;
+	background-position: center;
+}
+ul {
+	 padding:0;
+	 margin:0;
+	 list-style-type:none;
+ }
+
+li {
+ 	float:left; 
+ }
+
+ul li a {
+	 display:block;
+	 float:left;   
+	 width:170px;
+	 line-height:50px; 
+	 color:#DCDCDC;
+	 text-decoration:none;
+	 text-align:center;
+	 font-size: 1.2em;
+	 border-radius: 5px;
+	 font-family: apple chancery;
+ }
+
+ul li a:hover {
+ 	background:black url(images/noir-2.png) repeat-x;
+ 	color:white;
+ }
+
+.titredivin {
+	padding-top: 200px;
+	text-align: left;
+	font-size: xx-large;
+	font-family: apple chancery;
+	color: white;
+	margin-left: 80px;
+}
+
+.slogan {
+	padding-top: 0px;
+	text-align: left;
+	font-size: large;
+	font-family: apple chancery;
+	color: white;
+	margin-left: 10px;	
+}
+
+html, body {
+    font-family: Raleway, sans-serif;  
+}
+
+.footer {
+	width: 100%;
+	height: 120px;
+	background-color: #999;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.social {
+		padding-top: 200px;
+	text-align: center;
+	font-size: large;
+	font-family: apple chancery;
+	color: white;
+	margin-left: 80px;
+}
+
+.copyright {
+    width: 50%;
+
+}
+
+.margin{
+	margin: 0 40px;
+}
+
+.titreteam {
+	font-family: apple chancery;
+}
+
+.contactez-nous {
+	font-family: apple chancery;
+	font-size: smaller;
+}
+
+.img7 {
+	text-align:  right;
+}
